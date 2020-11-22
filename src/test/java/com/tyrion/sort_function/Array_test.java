@@ -1,3 +1,5 @@
+package com.tyrion.sort_function;
+
 import org.junit.Test;
 
 public class Array_test {
