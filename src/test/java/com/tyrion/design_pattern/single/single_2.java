@@ -5,7 +5,7 @@ package com.tyrion.design_pattern.single;
  */
 public class single_2 {
     private single_2(){
-        System.out.println(Thread.currentThread().getName()+"run");
+        System.out.println(Thread.currentThread().getName()+" run");
     }
 
     private volatile static single_2 SINGLE_2;
@@ -17,6 +17,7 @@ public class single_2 {
 //        }
 //        return SINGLE_2;
 //    }
+
     //双重检测锁模式 DCL懒汉式
     public static single_2 getInstance(){
         if(SINGLE_2==null){
