@@ -1,4 +1,4 @@
-package com.tyrion.design_pattern.factory.abs;
+package com.tyrion.design_pattern.Creational.factory.abs;
 
 //手机产品接口
 public interface phoneProduct {

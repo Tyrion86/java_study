@@ -1,4 +1,4 @@
-package com.tyrion.design_pattern.factory.simple;
+package com.tyrion.design_pattern.Creational.factory.simple;
 
 public class Tesla implements Car {
 

@@ -1,4 +1,4 @@
-package com.tyrion.design_pattern.factory.method;
+package com.tyrion.design_pattern.Creational.factory.method;
 
 public class Consumer {
     public static void main(String[] args) {

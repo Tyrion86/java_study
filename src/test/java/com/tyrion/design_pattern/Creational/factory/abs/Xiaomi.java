@@ -1,4 +1,4 @@
-package com.tyrion.design_pattern.factory.abs;
+package com.tyrion.design_pattern.Creational.factory.abs;
 
 //小米手机
 public class Xiaomi implements phoneProduct{

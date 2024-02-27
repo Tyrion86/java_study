@@ -1,4 +1,4 @@
-package com.tyrion.design_pattern.factory.simple;
+package com.tyrion.design_pattern.Creational.factory.simple;
 
 //静态工厂模式（通过接收不同的参数返回不同的实例）
 

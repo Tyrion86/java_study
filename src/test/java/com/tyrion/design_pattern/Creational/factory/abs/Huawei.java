@@ -1,4 +1,4 @@
-package com.tyrion.design_pattern.factory.abs;
+package com.tyrion.design_pattern.Creational.factory.abs;
 
 //华为手机
 public class Huawei implements phoneProduct{

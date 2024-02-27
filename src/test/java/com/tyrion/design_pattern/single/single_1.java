@@ -1,6 +1,6 @@
 package com.tyrion.design_pattern.single;
 
-import org.junit.Test;
+// import org.junit.Test;
 
 /**
  * 饿汉式单例模式（实例在初始化已经创建）
